@@ -1,4 +1,4 @@
-# blockbased-vr
+# Cards
 Development of VR Platform for Block-based visual programming
 
 
@@ -13,9 +13,8 @@ Development of VR Platform for Block-based visual programming
   * I/K = Pitch
   * U/O = Roll
 * Block Interaction
-  * "1" = Spawn "Move Forward" block
-  * "2" = Spawn "Turn Left" block
-  * "3" = Spawn "Turn Right" block
+  * "1" = Spawn "Card" block
+  * "5" = Flip Card
   * "-" = Decrease parameter
   * "=" = Increase parameter
   * Spacebar = Grab block 
